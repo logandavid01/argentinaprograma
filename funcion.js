@@ -20,6 +20,11 @@ function botones1(){
     botones(esconder1);}
 
 function botones2(){
-    botones (esconder2);}
+    botones (esconder2)
+    botones (esconder3)
+    botones (esconder4);}
+
 function botones3(){
-    botones (esconder6);}
+    botones (esconder5)
+    botones (esconder6)
+    botones (esconder7);}
