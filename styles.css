@@ -1,0 +1,72 @@
+body {background-color: rgb(116, 174, 197);}
+*.{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+img {
+    width:150px;
+    height: 150px;
+    display: flex;
+    border-radius: 50%;
+    border: 5px solid rgb(8, 117, 99);
+    overflow: hidden;
+   margin-left: 10%;
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+
+ul {
+    color: rgb(105, 102, 102);
+    font-size: 1rem;
+}
+section#datospersonales {
+    font-size: 1rem;
+    border: 2px solid rgb(8, 117, 99);
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 0px;
+    background-color: rgb(23, 235, 164);
+    color:rgb(3, 88, 69) ;
+    box-shadow: 12px 15px rgb(34, 46, 44);
+    display: flex;
+    }
+section#experiencialaboral {
+    font-size: 1rem;
+    border: 2px solid rgb(8, 117, 99);
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 0px;
+    background-color: rgb(23, 235, 164);
+    color:rgb(3, 88, 69) ;
+    box-shadow: 12px 15px rgb(34, 46, 44);
+}
+section#formacionacademica {
+    font-size: 1rem;
+    border: 2px solid rgb(8, 117, 99);
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 0px;
+    background-color: rgb(23, 235, 164);
+    color:rgb(3, 88, 69) ;
+    box-shadow: 12px 15px rgb(34, 46, 44);
+}
+.tel1, .tel2, .tel3  {
+    display: none;
+}
+
+.mostrar1, .mostrar2, .mostrar3  {
+    display: block;
+}
