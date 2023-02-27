@@ -1,5 +1,5 @@
 body {background-color: rgb(116, 174, 197);}
-*.{
+*{
     box-sizing: border-box;
     margin:0;
     padding:0;
@@ -67,6 +67,6 @@ section#formacionacademica {
     display: none;
 }
 
-.mostrar1, .mostrar2, .mostrar3  {
+.mostrar1 {
     display: block;
 }
